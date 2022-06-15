@@ -1,0 +1,4 @@
+- 👋 ola meu nome é @igorritti89
+- 👍meu email de contato é @igor.abatti@escola.pr.gov.br
+- 👀 eu estou interessado em aprender novas línguagens
+- 🌱 eu estou aprendendo a programar recentemente a linguagem javaScript e scratch
